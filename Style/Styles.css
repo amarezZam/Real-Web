@@ -74,12 +74,12 @@ padding: 25px;
   background-color: #a9c1d4;
   color: #ffffff;
   width: 240px;
-  height: 280px;
-  line-height: 150px;
+  height: 380px;
+  /* line-height: 150px; */
   display: block;
   justify-content: center;
   text-align: center;
-  margin: 29px;
+  margin: 35px;
   display: none; /* Hidden by default */
 }
 
@@ -114,9 +114,9 @@ padding: 25px;
   justify-content: center;
   text-align: center;
 }
-.bean-banner{
-  margin-top: 25%;
+/* .bean-banner{
+  margin-: 35%;
   float: left;
   width: 40%;
   height: 25%;
-}
+} */
