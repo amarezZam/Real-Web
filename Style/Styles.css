@@ -113,6 +113,10 @@ padding: 25px;
   display: block;
   justify-content: center;
   text-align: center;
-  
-  
+}
+.bean-banner{
+  margin-top: 25%;
+  float: left;
+  width: 40%;
+  height: 25%;
 }
