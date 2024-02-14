@@ -1,3 +1,6 @@
+body{
+  background-color:rgb(252, 250, 250);
+}
 .coffee-banner{
   width: 120%;
   height: 120%;
@@ -117,7 +120,7 @@ padding: 25px;
 }
 .bean-banner{
  
-margin-top: 50px;
+margin-top: 60px;
   float: left;
   width: 35%;
   height: 20%;
@@ -125,4 +128,8 @@ margin-top: 50px;
 .bean-text{
   font-size: 50px;
   color: #3a2414;
+}
+.option-web{
+  margin-top: 15%;
+  margin-left: 11%;
 }
