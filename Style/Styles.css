@@ -118,18 +118,24 @@ padding: 25px;
   justify-content: center;
   text-align: center;
 }
-.bean-banner{
- 
-margin-top: 60px;
-  float: left;
-  width: 35%;
-  height: 20%;
-}
+
 .bean-text{
   font-size: 50px;
   color: #3a2414;
+  background-image: none;
 }
-.option-web{
-  margin-top: 15%;
-  margin-left: 11%;
-}
+
+
+.bean-banner{
+    float: left;
+width: 400px;
+height: 400px;
+margin-top: 5%;
+
+  }
+  .option-web{
+    margin-top: 13%;
+    margin-left: 45%;
+    width: 600px;
+    height: 200px;
+  }
