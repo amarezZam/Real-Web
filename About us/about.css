@@ -1,0 +1,52 @@
+/* Custom CSS styles */
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+header {
+    background: url('header-bg.jpg') no-repeat center center;
+    background-size: cover;
+    color: #ffffff;
+}
+
+header .container {
+    background: linear-gradient(90deg, rgba(70,49,35,1)0%,  rgb(109, 75, 50) 30%, rgb(136, 97, 71) 43%);
+    padding: 50px;
+}
+
+h1, h2 {
+    font-weight: 300;
+}
+
+.team-card, .product-card {
+    transition: transform 0.2s;
+}
+
+.team-card:hover, .product-card:hover {
+    transform: scaleY(1.05);
+}
+
+#contact-us .form-label {
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #6f4e37;
+    border-color: #6f4e37;
+}
+
+.btn-primary:hover {
+    background-color: #5a3e2c;
+    border-color: #5a3e2c;
+}
+
+.product-card {
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+}
+
+.product-card img {
+    height: 200px;
+    object-fit: cover;
+}

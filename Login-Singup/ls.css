@@ -1,0 +1,8 @@
+body{
+    width: 100%;
+    height: 880px;
+    background-image: linear-gradient(to right top, #28130d, #351c16, #42261c, #4f3123, #5c3c29, #66432e, #714b32, #7b5337, #86593b, #91603e, #9c6642, #a76d46);
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+}
+
