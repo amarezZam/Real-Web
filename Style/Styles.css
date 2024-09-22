@@ -12,7 +12,6 @@ body{
   cursor: pointer;
   border-radius: 10px;
     margin-right: -15px;
-  
 }
 /* Add a light grey background on mouse-over */
 .btn1:hover {
@@ -29,7 +28,6 @@ body{
   background-color: rgb(70,49,35);
   cursor: pointer;
   border-radius: 13px;
-  
 }
 /* Add a light grey background on mouse-over */
 .btn2:hover {
@@ -70,34 +68,29 @@ body{
   -moz-text-fill-color: transparent;
 }
 .b-banner{
- width: 1300px;
+  width: 1300px;
   height: 600px;
- border-radius: 13px;
+  border-radius: 13px;
 }
 .banner-paragraf{
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   color: rgb(109, 75, 50);
   font-size: 30px;
-  
 }
-
 a{
  text-decoration: none;
 }
 .title-product{
-margin-top: 13px;
+  margin-top: 13px;
   text-align: center;
 }
 .title-product a{
-color: black;
-padding: 25px;
-
+  color: black;
+  padding: 25px;
 }
 .container {
   overflow: hidden;
-  
 }
-
 .filterDiv {
   color: #ffffff;
   width: 240px;
@@ -123,10 +116,7 @@ padding: 25px;
   background-color: rgb(70,49,35);
   cursor: pointer;
   border-radius: 10px;
-
-  
 }
-
 .btn:hover {
   background-color: #7c5131;
   color: white;
@@ -151,7 +141,6 @@ padding: 25px;
   outline: auto;
   outline-color: #3a2414;
   margin-left: 5px;
-
 }
 /* Add a dark background to the active button */
 .btn.active {
@@ -163,10 +152,10 @@ padding: 25px;
   justify-content: center;
   text-align: center;
 }
-
 .bean-text{
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 50px;
+  outline: black;
   background: rgb(70,49,35);
   background: linear-gradient(90deg, rgba(70,49,35,1)0%,  rgb(109, 75, 50) 30%, rgb(136, 97, 71) 43%);
   background-size: 100%;
@@ -175,50 +164,39 @@ padding: 25px;
   -webkit-text-fill-color: transparent;
   -moz-background-clip: text;
   -moz-text-fill-color: transparent;
- transform: translateY(20px);
- 
- 
+  transform: translateY(20px);
 }
-
-
 .bean-banner{
     float: left;
-width: 600px;
-height: 300px;
-margin-top: 4%;
-
-
+    width: 600px;
+    height: 300px;
+    margin-top: 4%;
   }
   .pack-web{
     margin-top: -4%;
     margin-left: 55%;
     width: 600px;
     height: 400px;
-    
   }
   .latte-banner {
     position: relative;
     width: 100%;
     height: 300px; /* ارتفاع بنر را تنظیم کنید */
-    background: url('/img/Artboard\ 2.jpg') no-repeat center center;
+    background: url('/img/ww1.png') no-repeat center center;
     background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 13px;
-    
 }
-
 .navbar2 {
-  background: none; /* گراند نوبار پاک شده است */
-  position: absolute;
-  top: 60%;
-  transform: translateY(-50%);
-  left: 50%;
-  transform: translateX(-50%);
- 
+   background: none; /* گراند نوبار پاک شده است */
+   position: absolute;
+   top: 60%;
+   transform: translateY(-50%);
+   left: 50%;
+   transform: translateX(-50%);
 }
-
 .footer {
   position: relative;
   width: 100%;
@@ -229,27 +207,22 @@ margin-top: 4%;
 .footer a {
   color: whitesmoke;
 }
-
 .footer ul {
   padding: 3px;
   list-style: none;
 }
-
 .footer ul li a {
   color: #ffffff; /* تغییر رنگ تایتل‌ها به سفید */
   text-decoration: none;
   font-size: 14px;
 }
-
 .footer ul li a:hover {
   text-decoration: underline;
 }
-
 .footer-icon {
   color: #ffffff !important;
   font-size: 22px;
   margin-right: 10px;
-
 }
 
 
